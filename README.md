@@ -1,6 +1,9 @@
 # Real World HTTP Go Example
 
-[Read World HTTP 第2版ーー歴史とコードに学ぶインターネットとウェブ技術](https://www.oreilly.co.jp/books/9784873119038/)
+[![macOS](https://img.shields.io/badge/macOS-BigSur-black)](https://developer.apple.com/macos/)
+[![Go](https://img.shields.io/badge/Go-1.15-blue)](https://golang.org)
+
+:book: [Read World HTTP 第2版ーー歴史とコードに学ぶインターネットとウェブ技術](https://www.oreilly.co.jp/books/9784873119038/)
 
 ## Server
 
