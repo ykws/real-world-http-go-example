@@ -1,0 +1,6 @@
+# simpleget
+
+```
+$ go build
+$ ./simpleget
+```
